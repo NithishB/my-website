@@ -1,0 +1,14 @@
+.try{
+  padding: 10px;
+  border: solid;
+}
+
+.img-box{
+  max-height: 150px;
+  max-width: auto;
+}
+
+.icon-button{
+  height: 50px;
+  width: 100px;
+}
